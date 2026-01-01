@@ -73,6 +73,15 @@ This project demonstrates the ability to:
 It reflects how SQL used in real data analyst roles.
 ### Author
 PROSPER NGWIGEH
-**Skills: SQL(PostgreSQL), Data Analysis**
+**Skills: SQL(PostgreSQL), Data Analysis****Connect: [LinkedIn Profile] (http://www.linkedin.com/in/prosper-ngwigeh-82ba9339b)
+
+## How To Run This Project
+**open the editor: Go to onecompilerPostgreSQL
+**paste the schema: copy the code from the schema.sql file in this repository and paste it into the editor to create the tables.
+**Insert Data: copy the INSERT INTO statement from the data.sql file to populate the tables.
+**Run Analysis: Copy any query from the example of SQL Query section above to see the results instantly.
+
+
+
 
 
