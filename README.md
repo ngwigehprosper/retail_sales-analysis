@@ -77,8 +77,8 @@ PROSPER NGWIGEH
 
 ## How To Run This Project
 **open the editor: Go to onecompilerPostgreSQL
-**paste the schema: copy the code from the schema.sql file in this repository and paste it into the editor to create the tables.
-**Insert Data: copy the INSERT INTO statement from the data.sql file to populate the tables.
+**paste the schema: copy the code from the queries.sql file in this repository and paste it into the editor to create the tables.
+**Insert Data: copy the INSERT INTO statement from the queries.sql file to populate the tables.
 **Run Analysis: Copy any query from the example of SQL Query section above to see the results instantly.
 
 
